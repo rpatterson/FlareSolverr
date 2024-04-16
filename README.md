@@ -48,7 +48,7 @@ Supported architectures are:
 | ARM64        | linux/arm64  |
 
 We provide a `docker-compose.yml` configuration file. Clone this repository and execute
-`docker-compose up -d` _(Compose V1)_ or `docker compose up -d` _(Compose V2)_ to start
+`docker compose up -d` to start
 the container.
 
 If you prefer the `docker cli` execute the following command:
